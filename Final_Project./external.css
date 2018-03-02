@@ -1,0 +1,49 @@
+div {
+    background-color: black;
+}
+
+body {
+    background-color: white;
+}
+
+p {
+    color: black;
+}
+
+a {
+    color: black
+    background-color: black;
+
+}
+
+.moo{
+    font-family: 'Cinzel Decorative';font-size: 22px;
+}
+    
+.dark{
+    border-radius:50% ;
+    position:relative;
+    left:1200;
+    bottom:360;
+}
+
+.look{
+    position:relative;
+    width:800;
+    left:300;
+    top:100;
+}
+
+.new{
+    position:relative;
+    left:150;
+}
+
+p{
+    font-size: 30px;
+}
+
+.new1{
+    position:relative;
+    bottom:150;
+}
